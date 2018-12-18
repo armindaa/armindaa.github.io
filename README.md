@@ -16,7 +16,7 @@ Estudante de Jogos Digitais
 
 **Jogo4**:
 
-![mario](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)
+![dora](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)
 
 
 ## Eventos 
