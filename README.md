@@ -2,8 +2,8 @@
 Victória Arminda, 17 anos,
 Estudante de Jogos Digitais 
 
-#Contatos
+# Contatos
 
-##Jogos
+## Jogos
 
-##Eventos 
+## Eventos 
