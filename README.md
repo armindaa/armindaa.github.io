@@ -31,6 +31,9 @@ Estudante de Jogos Digitais
 4. Adicionar um link que seja imagem(url+arquivo)
 [![dora](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)](http://Twitter.com)
 
+5. Avançado: Adicionar um link que seja imagem e que abra em uma nova janela.
+ <a href="http://google.com" target="_blank">![imagem1](guardião%201.png)</a>
+
 
 
 
