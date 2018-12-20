@@ -29,7 +29,7 @@ Estudante de Jogos Digitais
 ![imagem1](guardião%201.png)
 
 4. Adicionar um link que seja imagem(url+arquivo)
-[![dora](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)].(http://Twitter.com)
+[![dora](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)](http://Twitter.com)
 
 
 
