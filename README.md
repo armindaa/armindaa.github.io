@@ -25,7 +25,7 @@ Albert Einstein
 
 **Jogo 1**: Differential Parachuting
 
-- Se você é corajoso de verdade que tal embarcar em uma verdadeira aventura? nada melhor do que um paraquedismo diferenciado!!
+- Se você é corajoso de verdade, que tal embarcar em uma verdadeira aventura? nada melhor do que um paraquedismo diferenciado!!
 [Clique aqui](https://armindaa.github.io/JogoDeParaquedismo/)
 
 ![imagem1](jogo1.png)
