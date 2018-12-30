@@ -1,8 +1,10 @@
 ## Meu Portfólio
-* Quem sou eu?
--Victória Arminda
+*Quem sou eu?
+![imagem1](imagem1.png)
+
+- Victória Arminda
 - 17 anos
--Estudante de Programação de Jogos Digitais
+- Estudante de Programação de Jogos Digitais
 - IFRN
 
 ## Contatos
