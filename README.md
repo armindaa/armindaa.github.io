@@ -55,7 +55,7 @@ Albert Einstein
 -  Expotec do IFRN- Ceará-Mirim 2017
 - International MasterClasses Hands On Particle Physics 2017
 - Conferência: Dolmen- As diferentes áreas de atuação do Empreendedorismo em Jogos Digitais
-- Curso em Lógica Informal, Argumentação e pensamento Crítico I e II
+- Curso em Lógica Informal, Argumentação e Pensamento Crítico I e II
 - Performace para musical I
 - Secitex 2018
 
