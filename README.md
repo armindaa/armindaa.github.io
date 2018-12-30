@@ -69,8 +69,8 @@ Albert Einstein
 
 - A importância da matemática na programação de jogos digitais;
 - Som e letra: A relação entre o poema e a música em Lourival Açucena.
+![imagem6](apresentar.png)
 
 ## Certificados 
 ![imagem5](certificadoss.png)
-![imagem6](apresentar.png)
 
