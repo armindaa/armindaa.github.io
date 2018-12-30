@@ -35,11 +35,18 @@ Albert Einstein
 
 ![imagem2](jogo2.png)
 
-**Jogo 3**: 
+**Jogo 3**: The Cowboy´s Trup
+- Que tal aumentarmos um poquinho a temperatura... e encararmos uma aventura no sertão?  [Clique aqui](https://armindaa.github.io/Cowboy/)
+
+![imagem2](jogo2.png)
+
 
 **Jogo 4**:
 
-**Jogo 5**: Que tal aprender um pouco sobre citologia?
+**Jogo 5**: CitoGame
+- Vamos aprender um pouco sobre citologia? [Clique aqui](https://armindaa.github.io/Cowboy/)
+
+
 
 
 
