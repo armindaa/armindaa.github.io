@@ -23,25 +23,25 @@ Albert Einstein
 ## Jogos
 - Encontrei nos jogos digitais a oportunidade de imaginar e realizar...
 
-**Jogo1**: Differential Parachuting
+**Jogo 1**: Differential Parachuting
 
 - Se você é corajoso de verdade que tal embarcar em uma verdadeira aventura? nada melhor do que um paraquedismo diferenciado!!
 [Clique aqui](https://armindaa.github.io/JogoDeParaquedismo/)
 
 ![imagem1](jogo1.png)
 
-**Jogo2**: The Wizard
+**Jogo 2**: The Wizard
 - Já imaginou se você fosse um mago e pudesse se transformar em vários animais? Além de combater com inimigos bem maiores que você? Quer encarar esse desafio? então [Clique aqui](https://ronaque.github.io/The%20Wizard/)
 
 ![imagem2](jogo2.png)
 
 
 
-**Jogo3**:
+**Jogo 3**:
 
-**Jogo4**:
+**Jogo 4**:
 
-**Jogo5**: Que tal aprender um pouco sobre citologia?
+**Jogo 5**: Que tal aprender um pouco sobre citologia?
 
 
 1. Adicionar um link (url)
