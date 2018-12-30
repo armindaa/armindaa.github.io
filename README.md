@@ -50,7 +50,7 @@ Albert Einstein
 
 **Jogo 5**: CitoGame
 - Vamos aprender um pouco sobre citologia? [Clique aqui](https://mavicampos.github.io/CG/)
-![imagem5](jogo5png)
+![imagem5](jogo5.png)
 
 
 
