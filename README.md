@@ -20,6 +20,8 @@ Albert Einstein
 4. Currículo Lattes: [Clique aqui](	http://lattes.cnpq.br/8863620791566898)
 
 ## Jogos
+- Encontrei nos jogos digitais a oportunidade de imaginar e realizar...
+
 **Jogo1**: Se você é corajoso de verdade que tal embarcar em uma verdadeira aventura... pulando de paraquedas e fazendo de tudo para sobreviver?
 ![paraquedas](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)
 
