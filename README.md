@@ -1,6 +1,6 @@
 ## Meu Portfólio
 *Quem sou eu?
-![imagem1](imagem1.jpg)
+![imagem1](foto2.jpeg)
 
 
 - Victória Arminda
