@@ -8,6 +8,7 @@
 - 17 anos
 - Estudante de Programação de Jogos Digitais
 - IFRN
+- Futura acadêmica em Direito(UFRN).
 
 ## Contatos
 1. Email: vitoriaarminda11@gmail.com  
@@ -45,8 +46,15 @@
  <a href="http://google.com" target="_blank">![imagem1](guardião%201.png)</a>
 
 
-
-
-
-
 ## Eventos 
+
+- Participação na Expotec do IFRN- Ceará-Mirim 2017
+- Participação na secitex 2018
+
+
+## Projetos de Pesquisas
+
+- A importância da matemática na programação de jogos digitais;
+- Som e letra: A relação entre o poema e a música em Lourival Açucena.
+
+## Certificados 
