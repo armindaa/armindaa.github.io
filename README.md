@@ -1,6 +1,6 @@
 ## Meu Portfólio
 Victória Arminda, 17 anos,
-Estudante de Jogos Digitais 
+Estudante de Jogos Digitais.
 
 ## Contatos
 1. Email: vitoriaarminda11@gmail.com  
@@ -8,7 +8,7 @@ Estudante de Jogos Digitais
 
 
 ## Jogos
-**Jogo1**:
+**Jogo1**: 
 
 **Jogo2**:
 
