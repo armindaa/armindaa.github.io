@@ -38,7 +38,7 @@ Albert Einstein
 **Jogo 3**: The Cowboy´s Trup
 - Que tal aumentarmos um poquinho a temperatura... e encararmos uma aventura no sertão?  [Clique aqui](https://armindaa.github.io/Cowboy/)
 
-![imagem3](jogo4.png)
+![imagem3](jogooo.png)
 
 
 **Jogo 4**: Spider Aircraft 
