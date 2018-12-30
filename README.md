@@ -23,7 +23,10 @@ Albert Einstein
 ## Jogos
 - Encontrei nos jogos digitais a oportunidade de imaginar e realizar...
 
-**Jogo1**: Se você é corajoso de verdade que tal embarcar em uma verdadeira aventura... pulando de paraquedas e fazendo de tudo para sobreviver?
+**Jogo1**: Differential Parachuting
+Se você é corajoso de verdade que tal embarcar em uma verdadeira aventura? nada melhor do que um paraquedismo diferenciado!!
+[Clique aqui](https://armindaa.github.io/JogoDeParaquedismo/)
+
 
 ![imagem1](jogo1.png)
 
