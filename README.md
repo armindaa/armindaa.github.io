@@ -57,6 +57,7 @@ Albert Einstein
 - Conferência: Dolmen- As diferentes áreas de atuação do Empreendedorismo em Jogos Digitais
 - Curso em Lógica Informal, Argumentação e Pensamento Crítico I e II
 - Performace para musical I
+- Epogames 2017
 - Secitex 2018
 
 
