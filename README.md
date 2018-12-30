@@ -71,6 +71,5 @@ Albert Einstein
 - Som e letra: A relação entre o poema e a música em Lourival Açucena.
 
 ## Certificados 
-![imagem5](certificados.png)
-![imagem5](certificados2.png)
+![imagem5](certificadoss.png)
 
