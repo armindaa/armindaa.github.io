@@ -1,6 +1,6 @@
 ## Meu Portfólio
 *Quem sou eu?
-![imagem1](imagem1.png)
+![imagem1](imagem1.jpg)
 
 - Victória Arminda
 - 17 anos
