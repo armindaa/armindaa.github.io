@@ -17,6 +17,7 @@ Albert Einstein
 1. Email: vitoriaarminda11@gmail.com  
 2. Instagram: victoriaarminda  
 3. Facebook: Victória Arminda
+4. Currículo Lattes: [Clique aqui](	http://lattes.cnpq.br/8863620791566898)
 
 ## Jogos
 **Jogo1**: Se você é corajoso de verdade que tal embarcar em uma verdadeira aventura... pulando de paraquedas e fazendo de tudo para sobreviver?
@@ -49,10 +50,14 @@ Albert Einstein
  <a href="http://google.com" target="_blank">![imagem1](guardião%201.png)</a>
 
 
-## Eventos 
+## Participação em eventos e Cursos
 
-- Participação na Expotec do IFRN- Ceará-Mirim 2017
-- Participação na secitex 2018
+-  Expotec do IFRN- Ceará-Mirim 2017
+- International MasterClasses Hands On Particle Physics 2017
+- Conferência: Dolmen- As diferentes áreas de atuação do Empreendedorismo em Jogos Digitais
+- Curso em Lógica Informal, Argumentação e pensamento Crítico I e II
+- Performace para musical I
+- Secitex 2018
 
 
 ## Projetos de Pesquisas
@@ -61,3 +66,4 @@ Albert Einstein
 - Som e letra: A relação entre o poema e a música em Lourival Açucena.
 
 ## Certificados 
+
