@@ -10,6 +10,9 @@
 - IFRN
 - Futura acadêmica em Direito(UFRN).
 
+"A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro".
+Albert Einstein
+
 ## Contatos
 1. Email: vitoriaarminda11@gmail.com  
 2. Instagram: victoriaarminda  
