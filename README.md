@@ -24,7 +24,9 @@ Albert Einstein
 - Encontrei nos jogos digitais a oportunidade de imaginar e realizar...
 
 **Jogo1**: Se você é corajoso de verdade que tal embarcar em uma verdadeira aventura... pulando de paraquedas e fazendo de tudo para sobreviver?
-![paraquedas](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)
+
+![imagem1](jogo1.png)
+
 
 
 **Jogo2**:
@@ -51,6 +53,8 @@ Albert Einstein
 
 5. Avançado: Adicionar um link que seja imagem e que abra em uma nova janela.
  <a href="http://google.com" target="_blank">![imagem1](guardião%201.png)</a>
+ 
+ ![paraquedas](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)
 
 
 ## Participação em eventos e Cursos
