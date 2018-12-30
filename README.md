@@ -1,14 +1,19 @@
 ## Meu Portfólio
-Victória Arminda, 17 anos,
-Estudante de Jogos Digitais.
+* Quem sou eu?
+-Victória Arminda
+- 17 anos
+-Estudante de Programação de Jogos Digitais
+- IFRN
 
 ## Contatos
 1. Email: vitoriaarminda11@gmail.com  
 2. Instagram: victoriaarminda  
-
+3. Facebook: Victória Arminda
 
 ## Jogos
-**Jogo1**: 
+**Jogo1**: Se você é corajoso de verdade que tal embarcar em uma verdadeira aventura... pulando de paraquedas e fazendo de tudo para sobreviver?
+![paraquedas](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)
+
 
 **Jogo2**:
 
@@ -16,7 +21,8 @@ Estudante de Jogos Digitais.
 
 **Jogo4**:
 
-![dora](https://www.aprenderexcel.com.br//imagens/post/385/2901-1.jpg)
+**Jogo5**: Que tal aprender um pouco sobre citologia?
+
 
 1. Adicionar um link (url)
 [Clique aqui](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjxp-Wo6a7fAhXJg5AKHT29DUkQjRx6BAgBEAU&url=https%3A%2F%2Fcomicbook.com%2F2018%2F06%2F17%2Fstar-wars-nine-movies-in-development-more-stand-alones%2F&psig=AOvVaw0nROOw65krTSM9SXA0C3F-&ust=1545409541189967)
