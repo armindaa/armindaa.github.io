@@ -33,7 +33,7 @@ Albert Einstein
 **Jogo2**: The Wizard
 - Já imaginou se você fosse um mago e pudesse se transformar em vários animais? Além de combater com inimigos bem maiores que você? Quer encarar esse desafio? então [Clique aqui](https://ronaque.github.io/The%20Wizard/)
 
-![imagem1](jogo1.png)
+![imagem2](jogo2.png)
 
 
 
