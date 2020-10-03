@@ -6,10 +6,8 @@
 
 
 - Victória Arminda
-- 17 anos
 - Estudante de Programação de Jogos Digitais
 - IFRN
-- Futura acadêmica em Direito(UFRN).
 
 "A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro".
 Albert Einstein
@@ -21,7 +19,7 @@ Albert Einstein
 4. Currículo Lattes: [Clique aqui](	http://lattes.cnpq.br/8863620791566898)
 
 ## Jogos
-- Encontrei nos jogos digitais a oportunidade de imaginar e realizar...
+
 
 **Jogo 1**: Differential Parachuting
 
